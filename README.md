@@ -1,2 +1,2 @@
 # Talks
-Talks and presentations where I have been
+Talks and presentations where I have participated.
