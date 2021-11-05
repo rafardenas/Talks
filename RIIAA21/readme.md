@@ -1,1 +1,3 @@
- In 2021 edition of RIIAA, a conference about Machine Learning and AI in general, I participated as TA in a workshop about Gaussian Processes and Bayesian Optimization. For the record, the files I used in the talk are in this folder.
+## About
+
+In 2021 edition of RIIAA, a conference about Machine Learning and AI in general, I participated as TA in a workshop about Gaussian Processes and Bayesian Optimization. For the record, the files I used in the talk are in this folder.
